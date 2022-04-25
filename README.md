@@ -2,6 +2,11 @@
 
 # 1. Introducción
 # 2. Herramientas utilizadas
+
+asdasjdg hvsadjvasjdsadvhasjdas
+
+
+
 # 3. Contexto del problema
 # 4. Preguntas de negocio
 # 5. Muestra de datos y análisis
