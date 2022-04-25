@@ -1,1 +1,1 @@
-# Proyecto-Sistemas-Informaci-ón
+# Proyecto-Sistemas-Información
