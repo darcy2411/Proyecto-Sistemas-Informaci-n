@@ -14,12 +14,12 @@
   
  Pandas proporciona herramientas que permiten:
 
-   * Leer y escribir datos en diferentes formatos: CSV, Microsoft Excel, Bases SQL y formato HDF5
-   * Fusionar y unir datos
-   * Seleccionar y filtrar de manera sencilla tablas de datos en funcion de posición, valor o etiquetas
-   * Transformar datos aplicado funciones tanto en global como por ventanas
-   * Manipulación de series temporales
-   * Hacer gráficas
+  * Leer y escribir datos en diferentes formatos: CSV, Microsoft Excel, Bases SQL y formato HDF5
+  * Fusionar y unir datos
+  * Seleccionar y filtrar de manera sencilla tablas de datos en funcion de posición, valor o etiquetas
+  * Transformar datos aplicado funciones tanto en global como por ventanas
+  * Manipulación de series temporales
+  * Hacer gráficas
 
 * Power BI: 
 
