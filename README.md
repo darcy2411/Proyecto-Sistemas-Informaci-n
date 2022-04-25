@@ -1,4 +1,4 @@
-# Proyecto-Sistemas-Información
+# Proyecto Sistemas de Información
 
 ## 1. Introducción
 ## 2. Herramientas utilizadas
