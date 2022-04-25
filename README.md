@@ -12,7 +12,7 @@
   *  Datos tabulares con columnas de tipo heterogéneo con etiquetas en columnas y filas
   *  Series temporales
   
- Pandas proporciona herramientas que permiten:
+  Pandas proporciona herramientas que permiten:
 
   * Leer y escribir datos en diferentes formatos: CSV, Microsoft Excel, Bases SQL y formato HDF5
   * Fusionar y unir datos
