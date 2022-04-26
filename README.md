@@ -24,7 +24,7 @@
 * Power BI: Es una aplicación de servicio basada en la nube que ayuda a recopilar, administrar y analizar datos de varias fuentes a través de una interfaz fácil de usar. Recopile datos y procéselos, convirtiéndolos en información comprensible, utilizando gráficos y cuadros visualmente atractivos y fáciles de procesar. Esto permite a los usuarios generar y compartir una instantánea clara y útil de lo que sucede en su proyecto o negocio.
 
  Power BI se utiliza para ejecutar informes basados en los datos anteriores de la empresa, el negocio o el proyecto. Puede conectarse a una amplia gama de conjuntos de datos, y <<ordena>> genera información y elementos visuales a partir de estos datos, también ayuda a los usuarios a ver no solo lo que sucedió en el pasado y lo que está sucediendo ahora, pero también sobre lo que podría suceder en el futuro.
- 
+
  Beneficios del uso de Power BI:
  
   * Las empresas pueden gestionar  grandes cantidades de datos en Power BI que muchas otras plataformas tendrían dificultades para procesar
