@@ -21,7 +21,7 @@
   * Manipulación de series temporales
   * Hacer gráficas
 
-* Power BI: 
+* Power BI: Es una aplicacion de servicios basados en la nube
 
 ## 3. Contexto del problema
 ## 4. Preguntas de negocio
