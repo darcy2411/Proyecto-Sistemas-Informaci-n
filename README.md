@@ -35,7 +35,7 @@
 
 ## 3. Contexto del problema
 
-El extraviode mascotas es una problematica que tiene diversos factores por los cuales pueden ocurrir, desde el descuido de los dueños, hasta el robo por parte de terceroe. Desde la iniciativa "Ciudadano de 4 Patas" por parte de la alcaldia de Bogotá, se desea dar una solucion a este problema en el que por medio de microships identificados cadada uno con un nomuero unico de 15 digitos permite identificar a la mascota por medio de radiofrecuencias. La finalidad de este proyecto es identificar, realizar un seguimiento y registro de loas mascotas que se encuentran presentes en la ciudad.
+El extravio de mascotas es una problematica que tiene diversos factores por los cuales pueden ocurrir, desde el descuido de los dueños, hasta el robo por parte de terceroe. Desde la iniciativa "Ciudadano de 4 Patas" por parte de la alcaldia de Bogotá, se desea dar una solucion a este problema en el que por medio de microships identificados cadada uno con un nomuero unico de 15 digitos permite identificar a la mascota por medio de radiofrecuencias. La finalidad de este proyecto es identificar, realizar un seguimiento y registro de loas mascotas que se encuentran presentes en la ciudad.
 
 Sabiendo esto se desea reconocer cuales son las carateristicas por las cuales los ciudadanos de diferentes localidades y estratos accedieron a este servicio en un periodo de 10 años (entre 2009 y 2019), de igual forma identificar si las especies, razas o sexo de las mascotas son factores que pueden generar que haya un mayor o menor uso de ese servicio por parte de la comunidad. 
 
