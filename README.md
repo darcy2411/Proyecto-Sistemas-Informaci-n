@@ -21,7 +21,9 @@
   * Manipulación de series temporales
   * Hacer gráficas
 
-* Power BI: Es una aplicacion de servicios basados en la nube
+* Power BI: Es una aplicación de servicio basada en la nube que ayuda a recopilar, administrar y analizar datos de varias fuentes a través de una interfaz fácil de usar. Recopile datos y procéselos, convirtiéndolos en información comprensible, utilizando gráficos y cuadros visualmente atractivos y fáciles de procesar. Esto permite a los usuarios generar y compartir una instantánea clara y útil de lo que sucede en su proyecto o negocio.
+
+ Power BI se utiliza para jecutar informes basados en los datos de una empresa, negocio o proyecto como se digo anteriormente. Puede conectarse a una amplia gama de conjuntos de datos, y <<ordena>> la informacion y visuales generados a partir de estos datos tambien ayuda a los usuarios a ver no solo lo que sucedio en el pasado y lo que esta sucediendo en lo presente, sino tambien en lo que podria suceder en el futuro
 
 ## 3. Contexto del problema
 ## 4. Preguntas de negocio
