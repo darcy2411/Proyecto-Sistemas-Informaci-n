@@ -35,5 +35,19 @@
 
 ## 3. Contexto del problema
 ## 4. Preguntas de negocio
+
+* Cuál es el nombre que más se repite en la espacie de felinos por localidad 
+* Cuál es la raza más común de la localidad de suba 
+* Cuantos caninos hay en ciudad bolívar con estrato 3 
+* Cuantas hembras de felino cuentan con microchip en la localidad de chapinero 
+* Cuál es la localidad con felinos y caninos que sean raza criolla.  
+* Cuál es el total de felinos que hay en la localidad de Kennedy de estrato 2  
+* Cuantos caninos de raza PUG hay en estrato 2 
+* En qué año se implementó más el microchip 
+* Cuantos machos y hembras hay en la especie de canino 
+* Cuantos felinos no esterilizados hay en la localidad de Bosa 
+* Cuantos felinos hembras hay en el archivo 
+* Cuantos Golden retriever hay en la localidad de chapinero  
+
 ## 5. Muestra de datos y análisis
 ## 6. Conclusiones y solución del problema
