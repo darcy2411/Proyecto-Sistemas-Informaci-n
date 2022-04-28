@@ -51,7 +51,7 @@ Sabiendo esto se desea reconocer cuales son las carateristicas por las cuales lo
 2. ¿Cuál es la raza más común de la localidad de suba?
 3. ¿Cuantos caninos hay en ciudad bolívar con estrato 3? 
 4. ¿Cuantas hembras de felino cuentan con microchip en la localidad de chapinero? 
-5. ¿Cuál es la localidad con felinos y caninos que sean raza criolla?  
+5. ¿Cuál es la localidad con menos felinos y caninos que sean raza criolla?  
 6. ¿Cuál es el total de felinos que hay en la localidad de Kennedy de estrato 2?  
 7. ¿Cuantos caninos de raza PUG hay en estrato 2? 
 8. ¿En qué año se implementó más el microchip? 
