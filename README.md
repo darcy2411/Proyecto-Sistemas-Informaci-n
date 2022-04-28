@@ -54,15 +54,15 @@ Sabiendo esto se desea reconocer cuales son las carateristicas por las cuales lo
 1. ¿Cuál es el nombre que más se repite en la espacie de felinos por localidad? 
 2. ¿Cuál es la raza más común de la localidad de suba?
 3. ¿Cuantos caninos hay en ciudad bolívar con estrato 3? 
-4. ¿Cuantas hembras de felino cuentan con microchip en la localidad de chapinero? 
-5. ¿Cuál es la localidad con menos felinos y caninos que sean raza criolla?  
-6. ¿Cuál es el total de felinos que hay en la localidad de Kennedy de estrato 2?  
-7. ¿Cuantos caninos de raza PUG hay en estrato 2? 
-8. ¿En qué año se implementó más el microchip? 
-9. ¿Cuantos machos y hembras hay en la especie de canino? 
+4. ¿Cual es el total de felinos por sexo en la localidad de chapinero? 
+5. ¿Cuál es el total de felinos y caninos de raza criollo por localidad?
+6. ¿Cuántos microships se usaron por estrato?  
+7. ¿Cuantos caninos de raza PUG hay en estrato 3 o menor a ese estrato? 
+8. ¿En qué año se implementó más el microchip por especie? 
+9. ¿Cual es el porcentaje por sexo y año de los caninos? 
 10. ¿Cuantos felinos no esterilizados hay en la localidad de Bosa? 
-11. ¿Cuantos felinos hembras hay en el archivo? 
-12. ¿Cuantos Golden retriever hay en la localidad de chapinero?  
+11. ¿Cuantos felinos por sexo hay en el archivo? 
+12. ¿Cuantos Golden retriever hay por localidad?  
 
 ## 5. Muestra de datos y análisis
 ## 6. Conclusiones y solución del problema
