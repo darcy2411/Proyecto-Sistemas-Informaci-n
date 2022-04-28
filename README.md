@@ -10,6 +10,10 @@ El microchip es un dispositivo electrónico del tamaño de un grano de arroz que
 
 La persona interesada debe llenar un formulario con su información personal y datos de contacto junto con los datos de su perro o gato (como nombre, raza, edad, sexo, entre otros). Esta información se registra en la plataforma web www.ciudadano4patas.com y se asocia con el número de 15 dígitos contenido en el dispositivo implantado. De esta manera, utilizando un lector de microchips se identifica ese número y se puede consultar en el sistema los datos del animal y su tenedor. Este proceso hace parte del programa de identificación, registro y monitoreo de animales domésticos llamado Ciudadano de 4 Patas, del IDPYBA.
 
+Si tu amigo peludo se aleja un día y tiene la suerte de ser encontrado por un extraño amable, todo lo que tiene que hacer esta persona es entregar a tu perro a un refugio de rescate o clínica veterinaria donde el personal o el veterinario usarán un dispositivo de escaneo para verificar si tu perro cuenta con microchip. El escaneo no causará estrés adicional a tu perro y es completamente indoloro.
+
+
+
 
 ## 2. Herramientas utilizadas
 
