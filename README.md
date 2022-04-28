@@ -5,6 +5,11 @@
 -----------------------------------------------------------------------------------------------------------
 
 ## 1. Introducción
+El Instituto de Protección Animal (IDPYBA) tiene el servicio de implantación de microchip para identificar a perros y gatos que conviven como animales de compañía de los residentes en Bogotá.
+El microchip es un dispositivo electrónico del tamaño de un grano de arroz que se implanta en la parte superior del cuello del animal, debajo de su piel. Está encapsulado en una cámara de cristal y recubierto con una capa de parylene (similar al latex), la cual hace que al entrar en contacto con el organismo quede fija en esa área y no se desplace por el cuerpo. El microchip contiene un número único de 15 dígitos que identifica, como una cédula, a cada animal y a su respectivo propietario.
+
+La persona interesada debe llenar un formulario con su información personal y datos de contacto junto con los datos de su perro o gato (como nombre, raza, edad, sexo, entre otros). Esta información se registra en la plataforma web www.ciudadano4patas.com y se asocia con el número de 15 dígitos contenido en el dispositivo implantado. De esta manera, utilizando un lector de microchips se identifica ese número y se puede consultar en el sistema los datos del animal y su tenedor. Este proceso hace parte del programa de identificación, registro y monitoreo de animales domésticos llamado Ciudadano de 4 Patas, del IDPYBA.
+
 
 ## 2. Herramientas utilizadas
 
