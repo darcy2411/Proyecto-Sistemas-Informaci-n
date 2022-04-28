@@ -5,6 +5,7 @@
 -----------------------------------------------------------------------------------------------------------
 
 ## 1. Introducción
+
 ## 2. Herramientas utilizadas
 
 * **Pandas:** Pandas es una biblioteca de Python que se especializa en manipular y analizar estructuras de datos al proporcionarlas de manera similar a los marcos de datos R. Pandas se basa en Numpy, una biblioteca que agrega potentes tipos de matrices a Python. Los principales tipos de datos que pueden ser representados por pandas son:
