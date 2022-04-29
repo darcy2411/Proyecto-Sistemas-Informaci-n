@@ -104,6 +104,11 @@ print("Hay una cantidad de felinos de: ", p)
 * p = len(pet[(pet.RAZA == 'GOLDEN RETRIEVER')].LOCALIDAD)
 print("Por localidad hay un total de Golden Retriever de: ", p)
 
+## 6 Muestra de Datos
 Luego se hizo el dashboard con la ayuda de la herramienta de Power BI se visualizara acontinuación:
+
+## 7 Analisis
+## 8 Conclusiones
+
 
 
