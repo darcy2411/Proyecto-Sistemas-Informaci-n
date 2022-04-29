@@ -56,10 +56,12 @@ Lo primero que hicimos fue plantear las preguntas de negocio que nos ayudara a i
 ## 5. Preguntas de negocio
 
 1. ¿Cuál es el nombre que más se repite en la espacie de felinos por localidad? 
- ## pet['NOMBRE ANIMAL'].value_counts().idxmax()
+
+ * pet['NOMBRE ANIMAL'].value_counts().idxmax()
    
 2. ¿Cuál es la raza más común de la localidad de suba?
-   if(pet.LOCALIDAD == 'Suba') pet['RAZA'].value_counts().idxmax()
+
+ * if(pet.LOCALIDAD == 'Suba') pet['RAZA'].value_counts().idxmax()
 
 3. ¿Cuantos caninos hay en ciudad bolívar con estrato 3? 
    p = len(pet[(pet.LOCALIDAD == 'Ciudad Bolívar') & (pet.ESTRATO == 3) & (pet.ESPECIE == 'Canino')])
