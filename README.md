@@ -111,6 +111,9 @@ Luego se hizo el dashboard con la ayuda de la herramienta de Power BI se visuali
 
 ## 7 Analisis
 ## 8 Conclusiones
-s
+
+Podemos concluir que de toda la información que hemos obtenido, se puede afirmar que los medios de identificación de animales deben ser capaces de prevenir el robo o tráfico ilícito, así como su abuso e irracionalidad, al garantizar la capacidad de vincular inequívocamente a los animales con sus dueños sacrificio. 
+
+El microchip implantado en la mascota es un medio de identificación, que puede proporcionar la garantía antes mencionada y lograr efectivamente el propósito del medio de identificación. Dado que el microchip puede almacenar un número de identificación único para cada animal, nos permite distinguirlo de otros animales y asociarlo con datos específicos, como la propiedad y la dirección.
 
 
