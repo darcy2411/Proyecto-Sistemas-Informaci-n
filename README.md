@@ -13,8 +13,6 @@ La persona interesada debe llenar un formulario con su información personal y d
 Si tu amigo peludo se aleja un día y tiene la suerte de ser encontrado por un extraño amable, todo lo que tiene que hacer esta persona es entregar a tu perro a un refugio de rescate o clínica veterinaria donde el personal o el veterinario usarán un dispositivo de escaneo para verificar si tu perro cuenta con microchip. El escaneo no causará estrés adicional a tu perro y es completamente indoloro.
 
 
-
-
 ## 2. Herramientas utilizadas
 
 * **Pandas:** Pandas es una biblioteca de Python que se especializa en manipular y analizar estructuras de datos al proporcionarlas de manera similar a los marcos de datos R. Pandas se basa en Numpy, una biblioteca que agrega potentes tipos de matrices a Python. Los principales tipos de datos que pueden ser representados por pandas son:
@@ -49,24 +47,57 @@ El extravio de mascotas es una problematica que tiene diversos factores por los 
 
 Sabiendo esto se desea reconocer cuales son las carateristicas por las cuales los ciudadanos de diferentes localidades y estratos accedieron a este servicio en un periodo de 10 años (entre 2009 y 2019), de igual forma identificar si las especies, razas o sexo de las mascotas son factores que pueden generar que haya un mayor o menor uso de ese servicio por parte de la comunidad. 
 
-## 4. Preguntas de negocio
+
+## 4. Solución del problema
+Por medio de un dasboard se realizo un respectivo una investigación detallado del Instituto Distrital de Bienestar Animalobtenido de la pagina https://www.animalesbog.gov.co/. Esto es con el fin de identificar que localidades acceden a los beneficios de implantarles el microchip o esterilizar a las mascotas. De tal manera con la ayuda de las herramientas Pandas (Python), Power Bi, asi mismo con ayuda de estas herramientas se oodra observan cualquier información que permita identificar en que localidades hacen mas uso de estos servicios y para que mascotas. 
+
+Lo primero que hicimos fue plantear las preguntas de negocio que nos ayudara a identificar.
+
+## 5. Preguntas de negocio
 
 1. ¿Cuál es el nombre que más se repite en la espacie de felinos por localidad? 
+   pet['NOMBRE ANIMAL'].value_counts().idxmax()
+   
 2. ¿Cuál es la raza más común de la localidad de suba?
+   if(pet.LOCALIDAD == 'Suba') pet['RAZA'].value_counts().idxmax()
+
 3. ¿Cuantos caninos hay en ciudad bolívar con estrato 3? 
+   p = len(pet[(pet.LOCALIDAD == 'Ciudad Bolívar') & (pet.ESTRATO == 3) & (pet.ESPECIE == 'Canino')])
+print("El total de caninos es de:", p)
+
 4. ¿Cual es el total de felinos por sexo en la localidad de chapinero? 
+  p = len(pet[(pet.ESPECIE == 'Felino') & (pet.LOCALIDAD == 'Chapinero')])
+print("El total de felinos por sexo es:", p)
+
 5. ¿Cuál es el total de felinos y caninos de raza criollo por localidad?
+  p = len(pet[((pet.ESPECIE == 'Felino') | (pet.ESPECIE == 'Canino')) & (pet.RAZA == 'CRIOLLO')])
+print("Total de caninos y felinos por localidad con raza criolla es:", p)
+
 6. ¿Cuántos microships se usaron por estrato?  
+  p = len(pet)
+print("Cantidad de microships usados por estrato:", p)
+
 7. ¿Cuantos caninos de raza PUG hay en estrato 3 o menor a ese estrato? 
+  p = len(pet[(pet.ESPECIE == 'Canino') & (pet.RAZA == 'PUG') & (pet.ESTRATO <= 3)])
+print("Cantidad de Raza pug:", p)
+
 8. ¿En qué año se implementó más el microchip por especie? 
+  pet['FECHA REG. IMPLANTE'].value_counts()
+  
 9. ¿Cual es el porcentaje por sexo y año de los caninos? 
+  p = len(pet[(pet.ESPECIE == 'Canino')])
+  v = len(pet)
+  x = (p / v) * 100
+print("El procentaje de caninos es: ", x)
+
 10. ¿Cuantos felinos no esterilizados hay en la localidad de Bosa? 
-11. ¿Cuantos felinos por sexo hay en el archivo? 
+  p = len(pet[(pet.ESPECIE == 'Felino') & (pet.LOCALIDAD == 'Bosa') & (pet.ESTERILIZACION == 'NO REGISTRADA')])
+print("Hay una cantidad de: ", p)
+
+11. ¿Cuantos felinos por sexo hay en el archivo?
+  p = len(pet[(pet.ESPECIE == 'Felino')])
+print("Hay una cantidad de felinos de: ", p) 
+
 12. ¿Cuantos Golden retriever hay por localidad?
-
-## 5. Muestra de datos y análisis
-## 6. Conclusiones y solución del problema
-
-Al garantizar que los animales puedan vincularse claramente con sus dueños, la identificación de animales, como los microchips, puede evitar el robo o el tráfico ilegal, así como su abuso y sacrificio irrazonable. Por lo tanto, el microchip implantado en el cuerpo del animal para la identificación es un medio capaz de realizar la garantía antes mencionada, y logra realmente el propósito de un medio de identificación.
-
-Del análisis realizado en el uso de Power BI y Pandas, podemos concluir que la mayoría de mascotas que utilizan microchips pertenecen a la raza criolla. El microchip almacena un número único para cada animal, lo que permite individualizarlo con otros animales y asociarlo con datos específicos, como la propiedad y la dirección
+p = len(pet[(pet.RAZA == 'GOLDEN RETRIEVER')].LOCALIDAD)
+print("Por localidad hay un total de Golden Retriever de: ", p)
