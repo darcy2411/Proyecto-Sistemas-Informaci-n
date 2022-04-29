@@ -64,42 +64,42 @@ Lo primero que hicimos fue plantear las preguntas de negocio que nos ayudara a i
  * if(pet.LOCALIDAD == 'Suba') pet['RAZA'].value_counts().idxmax()
 
 3. ¿Cuantos caninos hay en ciudad bolívar con estrato 3? 
-   p = len(pet[(pet.LOCALIDAD == 'Ciudad Bolívar') & (pet.ESTRATO == 3) & (pet.ESPECIE == 'Canino')])
+* p = len(pet[(pet.LOCALIDAD == 'Ciudad Bolívar') & (pet.ESTRATO == 3) & (pet.ESPECIE == 'Canino')])
 print("El total de caninos es de:", p)
 
 4. ¿Cual es el total de felinos por sexo en la localidad de chapinero? 
-  p = len(pet[(pet.ESPECIE == 'Felino') & (pet.LOCALIDAD == 'Chapinero')])
+* p = len(pet[(pet.ESPECIE == 'Felino') & (pet.LOCALIDAD == 'Chapinero')])
 print("El total de felinos por sexo es:", p)
 
 5. ¿Cuál es el total de felinos y caninos de raza criollo por localidad?
-  p = len(pet[((pet.ESPECIE == 'Felino') | (pet.ESPECIE == 'Canino')) & (pet.RAZA == 'CRIOLLO')])
+* p = len(pet[((pet.ESPECIE == 'Felino') | (pet.ESPECIE == 'Canino')) & (pet.RAZA == 'CRIOLLO')])
 print("Total de caninos y felinos por localidad con raza criolla es:", p)
 
 6. ¿Cuántos microships se usaron por estrato?  
-  p = len(pet)
+* p = len(pet)
 print("Cantidad de microships usados por estrato:", p)
 
 7. ¿Cuantos caninos de raza PUG hay en estrato 3 o menor a ese estrato? 
-  p = len(pet[(pet.ESPECIE == 'Canino') & (pet.RAZA == 'PUG') & (pet.ESTRATO <= 3)])
+* p = len(pet[(pet.ESPECIE == 'Canino') & (pet.RAZA == 'PUG') & (pet.ESTRATO <= 3)])
 print("Cantidad de Raza pug:", p)
 
 8. ¿En qué año se implementó más el microchip por especie? 
-  pet['FECHA REG. IMPLANTE'].value_counts()
+ * pet['FECHA REG. IMPLANTE'].value_counts()
   
 9. ¿Cual es el porcentaje por sexo y año de los caninos? 
-  p = len(pet[(pet.ESPECIE == 'Canino')])
+ * p = len(pet[(pet.ESPECIE == 'Canino')])
   v = len(pet)
   x = (p / v) * 100
 print("El procentaje de caninos es: ", x)
 
 10. ¿Cuantos felinos no esterilizados hay en la localidad de Bosa? 
-  p = len(pet[(pet.ESPECIE == 'Felino') & (pet.LOCALIDAD == 'Bosa') & (pet.ESTERILIZACION == 'NO REGISTRADA')])
+ * p = len(pet[(pet.ESPECIE == 'Felino') & (pet.LOCALIDAD == 'Bosa') & (pet.ESTERILIZACION == 'NO REGISTRADA')])
 print("Hay una cantidad de: ", p)
 
 11. ¿Cuantos felinos por sexo hay en el archivo?
-  p = len(pet[(pet.ESPECIE == 'Felino')])
+* p = len(pet[(pet.ESPECIE == 'Felino')])
 print("Hay una cantidad de felinos de: ", p) 
 
 12. ¿Cuantos Golden retriever hay por localidad?
-p = len(pet[(pet.RAZA == 'GOLDEN RETRIEVER')].LOCALIDAD)
+* p = len(pet[(pet.RAZA == 'GOLDEN RETRIEVER')].LOCALIDAD)
 print("Por localidad hay un total de Golden Retriever de: ", p)
