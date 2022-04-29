@@ -114,6 +114,5 @@ Luego se hizo el dashboard con la ayuda de la herramienta de Power BI se visuali
 
 Podemos concluir que de toda la información que hemos obtenido, se puede afirmar que los medios de identificación de animales deben ser capaces de prevenir el robo o tráfico ilícito, así como su abuso e irracionalidad, al garantizar la capacidad de vincular inequívocamente a los animales con sus dueños sacrificio. 
 
-El microchip implantado en la mascota es un medio de identificación, que puede proporcionar la garantía antes mencionada y lograr efectivamente el propósito del medio de identificación. Dado que el microchip puede almacenar un número de identificación único para cada animal, nos permite distinguirlo de otros animales y asociarlo con datos específicos, como la propiedad y la dirección.
-
+El microchip implantado en la mascota es un medio de identificación, que puede proporcionar la garantía antes mencionada y lograr efectivamente el propósito del medio de identificación. Dado que el microchip puede almacenar un número de identificación único para cada animal, nos permite distinguirlo de otros animales y asociarlo con datos específicos, como la propiedad y la dirección. Usando los datos disponibles en Open Data Bogotá, nuestro equipo pudo identificar diferentes factores a analizar, incluyendo la ubicación, clase, raza, género y especie de la mascota, y de esta manera, explicamos el mayor uso de mascotas en microchips. Teniendo en cuenta la combinación de datos
 
