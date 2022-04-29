@@ -106,7 +106,8 @@ print("Por localidad hay un total de Golden Retriever de: ", p)
 
 ## 6 Muestra de Datos
 Luego se hizo el dashboard con la ayuda de la herramienta de Power BI se visualizara acontinuación:
-[Microchips.png](https://postimg.cc/K3v51gF6)
+
+[![Microships.jpg](https://i.postimg.cc/PxNYhB2J/Microships.jpg)](https://postimg.cc/0MRb0Hg1)
 
 ## 7 Analisis
 ## 8 Conclusiones
