@@ -66,3 +66,7 @@ Sabiendo esto se desea reconocer cuales son las carateristicas por las cuales lo
 
 ## 5. Muestra de datos y análisis
 ## 6. Conclusiones y solución del problema
+
+Al garantizar que los animales puedan vincularse claramente con sus dueños, la identificación de animales, como los microchips, puede evitar el robo o el tráfico ilegal, así como su abuso y sacrificio irrazonable. Por lo tanto, el microchip implantado en el cuerpo del animal para la identificación es un medio capaz de realizar la garantía antes mencionada, y logra realmente el propósito de un medio de identificación.
+
+Del análisis realizado en el uso de Power BI y Pandas, podemos concluir que la mayoría de mascotas que utilizan microchips pertenecen a la raza criolla. El microchip almacena un número único para cada animal, lo que permite individualizarlo con otros animales y asociarlo con datos específicos, como la propiedad y la dirección
