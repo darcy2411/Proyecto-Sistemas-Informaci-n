@@ -106,6 +106,7 @@ print("Por localidad hay un total de Golden Retriever de: ", p)
 
 ## 6 Muestra de Datos
 Luego se hizo el dashboard con la ayuda de la herramienta de Power BI se visualizara acontinuación:
+https://github.com/darcy2411/Proyecto-Sistemas-Informaci-n/issues/1#issue-1221578113
 
 ## 7 Analisis
 ## 8 Conclusiones
