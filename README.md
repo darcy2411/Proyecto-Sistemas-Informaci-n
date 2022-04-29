@@ -62,7 +62,7 @@ Sabiendo esto se desea reconocer cuales son las carateristicas por las cuales lo
 9. ¿Cual es el porcentaje por sexo y año de los caninos? 
 10. ¿Cuantos felinos no esterilizados hay en la localidad de Bosa? 
 11. ¿Cuantos felinos por sexo hay en el archivo? 
-12. ¿Total mascotas por localidad?  
+12. ¿Cuantos Golden retriever hay por localidad?
 
 ## 5. Muestra de datos y análisis
 ## 6. Conclusiones y solución del problema
