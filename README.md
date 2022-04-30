@@ -132,6 +132,7 @@ Figura 4
 Nota. Elaboración propia
 
 Figura 5
+
 ¿Cuantos felinos no esterilizados hay en la localidad de Bosa? 
 [![Microships2.png](https://i.postimg.cc/9QRsyzNk/Microships2.png)](https://postimg.cc/5XJPV9J5)
 
