@@ -111,8 +111,14 @@ Luego se hizo el dashboard con la ayuda de la herramienta de Power BI se visuali
 [![Captura-de-pantalla-2022-04-29-195756.png](https://i.postimg.cc/TY19Wg5V/Captura-de-pantalla-2022-04-29-195756.png)](https://postimg.cc/56cvhH3y)
 [![Captura-de-pantalla-2022-04-29-200030.png](https://i.postimg.cc/Y0WCJdyN/Captura-de-pantalla-2022-04-29-200030.png)](https://postimg.cc/gLGphHpr)
 [![Captura-de-pantalla-2022-04-29-200209.png](https://i.postimg.cc/ZKmByy7f/Captura-de-pantalla-2022-04-29-200209.png)](https://postimg.cc/w3WTC3dJ)
+[![Microships2.png](https://i.postimg.cc/9QRsyzNk/Microships2.png)](https://postimg.cc/5XJPV9J5)
+[![Microships3.png](https://i.postimg.cc/RZLp7fLX/Microships3.png)](https://postimg.cc/bZdR8ZMt)
+
 
 ## 7 Analisis
 ## 8 Conclusiones
 
-Podemos concluir que de toda la información que hemos obtenido, afirmar que los medios de identificación de animales son mas usados en perros de raza criolla
+Podemos concluir que de toda la información que hemos obtenido, afirmar que los medios de identificación de animales son capaces de prevenir el robo o tráfico ilícito, así como su abuso e irracionalidad, al garantizar la capacidad de vincular inequívocamente a los animales con sus dueños. Hay que aclarar que el  microchip  sirve  como  un  reconocimiento  legal  el  cual  tiene  como  objetivo  identificar,  registrar  y  realizar  seguimiento  a  los  animales  de  compañía  que  habitan  en  la ciudad. Ayudar a los perritos que son abandonados identificándolos por medio del microchip todos los datos correspondientes al animal y de su responsable. Así mismo facilita la búsqueda de los perritos perdidos. 
+
+El microchip implantado en la mascota es un medio de identificación, que puede proporcionar la garantía antes mencionada y lograr efectivamente el propósito del medio de identificación. Dado que el microchip puede almacenar un número de identificación único para cada animal, nos permite distinguirlo de otros animales y asociarlo con datos específicos, como la propiedad y la dirección. Usando los datos disponibles en Open Data Bogotá, nuestro equipo pudo identificar diferentes factores a analizar, incluyendo la ubicación, clase, raza, género y especie de la mascota, y de esta manera, explicamos el mayor uso de mascotas en microchips. Teniendo en cuenta la combinación de datos
+
