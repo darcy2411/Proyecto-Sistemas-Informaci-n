@@ -110,31 +110,37 @@ Luego se hizo el dashboard con la ayuda de la herramienta de Power BI se visuali
 Figura 1
 ¿Cuál es el nombre que más se repite en la espacie de felinos por localidad? 
 [![Microships.png](https://i.postimg.cc/gkx58nxZ/Microships.png)](https://postimg.cc/bsj3jYHy)
+
 Nota. Elaboración propia
 
 Figura 2
 ¿Cuál es el total de felinos y caninos de raza criollo por localidad?
 [![Captura-de-pantalla-2022-04-29-195756.png](https://i.postimg.cc/TY19Wg5V/Captura-de-pantalla-2022-04-29-195756.png)](https://postimg.cc/56cvhH3y)
+
 Nota. Elaboración propia
 
 Figura 3
 ¿Cuantos caninos de raza PUG hay en estrato 3 o menor a ese estrato? 
 [![Captura-de-pantalla-2022-04-29-200030.png](https://i.postimg.cc/Y0WCJdyN/Captura-de-pantalla-2022-04-29-200030.png)](https://postimg.cc/gLGphHpr)
+
 Nota. Elaboración propia
 
 Figura 4
 ¿Cual es el total de felinos por sexo en la localidad de chapinero? 
 [![Captura-de-pantalla-2022-04-29-200209.png](https://i.postimg.cc/ZKmByy7f/Captura-de-pantalla-2022-04-29-200209.png)](https://postimg.cc/w3WTC3dJ)
+
 Nota. Elaboración propia
 
 Figura 5
 ¿Cuantos felinos no esterilizados hay en la localidad de Bosa? 
 [![Microships2.png](https://i.postimg.cc/9QRsyzNk/Microships2.png)](https://postimg.cc/5XJPV9J5)
+
 Nota. Elaboración propia
 
 Figura 6
 ¿Cual es el porcentaje por sexo y año de los caninos? 
 [![Microships3.png](https://i.postimg.cc/RZLp7fLX/Microships3.png)](https://postimg.cc/bZdR8ZMt)
+
 Nota. Elaboración propia
 
 ## 7 Analisis
