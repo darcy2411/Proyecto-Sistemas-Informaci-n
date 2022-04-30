@@ -144,6 +144,15 @@ Figura 6
 Nota. Elaboración propia
 
 ## 7 Analisis
+
+
+Figura 1: 
+Se puede identificar que todas las localidades de la ciudad de Bogotá tienen como factor común que el nombre “Luna” es el que mas se utiliza, teniendo un total de 2843 felinos con este nombre.
+Figura 2: 
+Se puede observar que la cantidad de caninos de raza criolla es menor que los felinos en todas las localidades a excepción de “No determinado”, “suma paz” y “Área Metropolitana”
+Figura 3:
+Se puede inferir que del 100% de los pug que fueron registrados con microchip, el 98.66% de ellos son de las localidades 0, 1, 2, 3
+
 ## 8 Conclusiones
 
 Podemos concluir que de toda la información que hemos obtenido, afirmar que no importa si la especie del animal ya sea felino o canino y cambie  las localidades siempre va haber una mascota con el nombre de "Luna", encontramos también que la mayoría de raza que se ve en las localidades son Criollos tanto gatos como perros, tenemos un total de 206.707 mascotas registradas en el Excel es decir que tienen microchips que para ir mas a allá en las localidades que tienen estrato 2 son donde mas se encuentra mascotas registradas para ser exactos 90.215 registros. estos datos de Excel tiene un registro del 2009 al 2019 donde los únicos dos años es decir 2018 y 2019 son los que contienen mas implementación de microchip por especie y por ultimo se encuentra que la mayoría de mascotas registradas no estan esterilizados.
