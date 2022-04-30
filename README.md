@@ -107,16 +107,40 @@ print("Por localidad hay un total de Golden Retriever de: ", p)
 ## 6 Muestra de Datos
 Luego se hizo el dashboard con la ayuda de la herramienta de Power BI se visualizara acontinuación:
 
+Figura 1
+¿Cuál es el nombre que más se repite en la espacie de felinos por localidad? 
 [![Microships.png](https://i.postimg.cc/gkx58nxZ/Microships.png)](https://postimg.cc/bsj3jYHy)
-[![Captura-de-pantalla-2022-04-29-195756.png](https://i.postimg.cc/TY19Wg5V/Captura-de-pantalla-2022-04-29-195756.png)](https://postimg.cc/56cvhH3y)
-[![Captura-de-pantalla-2022-04-29-200030.png](https://i.postimg.cc/Y0WCJdyN/Captura-de-pantalla-2022-04-29-200030.png)](https://postimg.cc/gLGphHpr)
-[![Captura-de-pantalla-2022-04-29-200209.png](https://i.postimg.cc/ZKmByy7f/Captura-de-pantalla-2022-04-29-200209.png)](https://postimg.cc/w3WTC3dJ)
-[![Microships2.png](https://i.postimg.cc/9QRsyzNk/Microships2.png)](https://postimg.cc/5XJPV9J5)
-[![Microships3.png](https://i.postimg.cc/RZLp7fLX/Microships3.png)](https://postimg.cc/bZdR8ZMt)
+Nota. Elaboración propia
 
+Figura 2
+¿Cuál es el total de felinos y caninos de raza criollo por localidad?
+[![Captura-de-pantalla-2022-04-29-195756.png](https://i.postimg.cc/TY19Wg5V/Captura-de-pantalla-2022-04-29-195756.png)](https://postimg.cc/56cvhH3y)
+Nota. Elaboración propia
+
+Figura 3
+¿Cuantos caninos de raza PUG hay en estrato 3 o menor a ese estrato? 
+[![Captura-de-pantalla-2022-04-29-200030.png](https://i.postimg.cc/Y0WCJdyN/Captura-de-pantalla-2022-04-29-200030.png)](https://postimg.cc/gLGphHpr)
+Nota. Elaboración propia
+
+Figura 4
+¿Cual es el total de felinos por sexo en la localidad de chapinero? 
+[![Captura-de-pantalla-2022-04-29-200209.png](https://i.postimg.cc/ZKmByy7f/Captura-de-pantalla-2022-04-29-200209.png)](https://postimg.cc/w3WTC3dJ)
+Nota. Elaboración propia
+
+Figura 5
+¿Cuantos felinos no esterilizados hay en la localidad de Bosa? 
+[![Microships2.png](https://i.postimg.cc/9QRsyzNk/Microships2.png)](https://postimg.cc/5XJPV9J5)
+Nota. Elaboración propia
+
+Figura 6
+¿Cual es el porcentaje por sexo y año de los caninos? 
+[![Microships3.png](https://i.postimg.cc/RZLp7fLX/Microships3.png)](https://postimg.cc/bZdR8ZMt)
+Nota. Elaboración propia
 
 ## 7 Analisis
 ## 8 Conclusiones
 
-Podemos concluir que de toda la información que hemos obtenido, afirmar que a pesar de uno saber el nombre mas usado en felinos por localidad siempre abra un gato llamado "Luna", encontramos también que los animales que mas usan un microchips de identificación son la raza criolla superando a otras razas por localidad. En el Excel encontramos 206.707 datos de mascotas registradas por microchips donde la mayoría de ellos para ser exactos 90.215 microchips son puestos en mascotas de estrato 2. Encontramos que la mayoría de mascotas que se encuentran en los datos de Excel son animales que no están esterilizados.
+Podemos concluir que de toda la información que hemos obtenido, afirmar que los medios de identificación de animales son capaces de prevenir el robo o tráfico ilícito, así como su abuso e irracionalidad, al garantizar la capacidad de vincular inequívocamente a los animales con sus dueños. Hay que aclarar que el  microchip  sirve  como  un  reconocimiento  legal  el  cual  tiene  como  objetivo  identificar,  registrar  y  realizar  seguimiento  a  los  animales  de  compañía  que  habitan  en  la ciudad. Ayudar a los perritos que son abandonados identificándolos por medio del microchip todos los datos correspondientes al animal y de su responsable. Así mismo facilita la búsqueda de los perritos perdidos. 
+
+El microchip implantado en la mascota es un medio de identificación, que puede proporcionar la garantía antes mencionada y lograr efectivamente el propósito del medio de identificación. Dado que el microchip puede almacenar un número de identificación único para cada animal, nos permite distinguirlo de otros animales y asociarlo con datos específicos, como la propiedad y la dirección. Usando los datos disponibles en Open Data Bogotá, nuestro equipo pudo identificar diferentes factores a analizar, incluyendo la ubicación, clase, raza, género y especie de la mascota, y de esta manera, explicamos el mayor uso de mascotas en microchips. Teniendo en cuenta la combinación de datos
 
