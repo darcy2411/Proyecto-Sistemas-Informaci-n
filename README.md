@@ -108,25 +108,25 @@ print("Por localidad hay un total de Golden Retriever de: ", p)
 Luego se hizo el dashboard con la ayuda de la herramienta de Power BI se visualizara acontinuación:
 
 Figura 1
-¿Cuál es el nombre que más se repite en la espacie de felinos por localidad? 
+  ¿Cuál es el nombre que más se repite en la espacie de felinos por localidad? 
 [![Microships.png](https://i.postimg.cc/gkx58nxZ/Microships.png)](https://postimg.cc/bsj3jYHy)
 
 Nota. Elaboración propia
 
 Figura 2
-¿Cuál es el total de felinos y caninos de raza criollo por localidad?
+  ¿Cuál es el total de felinos y caninos de raza criollo por localidad?
 [![Captura-de-pantalla-2022-04-29-195756.png](https://i.postimg.cc/TY19Wg5V/Captura-de-pantalla-2022-04-29-195756.png)](https://postimg.cc/56cvhH3y)
 
 Nota. Elaboración propia
 
 Figura 3
-¿Cuantos caninos de raza PUG hay en estrato 3 o menor a ese estrato? 
+  ¿Cuantos caninos de raza PUG hay en estrato 3 o menor a ese estrato? 
 [![Captura-de-pantalla-2022-04-29-200030.png](https://i.postimg.cc/Y0WCJdyN/Captura-de-pantalla-2022-04-29-200030.png)](https://postimg.cc/gLGphHpr)
 
 Nota. Elaboración propia
 
 Figura 4
-¿Cual es el total de felinos por sexo en la localidad de chapinero? 
+  ¿Cual es el total de felinos por sexo en la localidad de chapinero? 
 [![Captura-de-pantalla-2022-04-29-200209.png](https://i.postimg.cc/ZKmByy7f/Captura-de-pantalla-2022-04-29-200209.png)](https://postimg.cc/w3WTC3dJ)
 
 Nota. Elaboración propia
