@@ -166,7 +166,7 @@ En este grafico se observa cual es el total de felinos y caninos criollo dependi
 
 Figura 6
 
-Se observa que el estrato que utilizo mas la implementación del microchip fue para el estrato 2
+Se observa que el porcentaje por sexo y año frente a la especie canina, de macho es de un 28,57% entre los años 2009 y 2019 va variando el porcentaje dependiendo los años , y para las hembras un 59,12%.
 
 ## 8 Conclusiones
 
