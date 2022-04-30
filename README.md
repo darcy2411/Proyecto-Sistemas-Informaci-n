@@ -145,12 +145,16 @@ Nota. Elaboración propia
 
 ## 7 Analisis
 
-
 Figura 1: 
+
 Se puede identificar que todas las localidades de la ciudad de Bogotá tienen como factor común que el nombre “Luna” es el que mas se utiliza, teniendo un total de 2843 felinos con este nombre.
+
 Figura 2: 
+
 Se puede observar que la cantidad de caninos de raza criolla es menor que los felinos en todas las localidades a excepción de “No determinado”, “suma paz” y “Área Metropolitana”
+
 Figura 3:
+
 Se puede inferir que del 100% de los pug que fueron registrados con microchip, el 98.66% de ellos son de las localidades 0, 1, 2, 3
 
 ## 8 Conclusiones
