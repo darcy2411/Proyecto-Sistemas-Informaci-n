@@ -162,7 +162,7 @@ Figura 4:
 Se observa que el total de felinos por sexo es para hembra un porcentaje de 57,37, para machos esta en 40,57 y por ultimo los que no se encuentran registrados se encuentran en un porcentaje de 2,15.
 
 Figura 5:
-En este grafico se observa cual es el total de felinos y caninos criollo dependiendo las localidades
+Se observa que los felinos no esterilizados que se encuentran en la localidad de bosa, en la grafica se muestra que el grafico el 4,4mil se encuentran registrados, el 0,9 mil no existen registros para concluir un total de 5,3mil
 
 Figura 6
 
