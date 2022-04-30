@@ -45,8 +45,6 @@ Si tu amigo peludo se aleja un día y tiene la suerte de ser encontrado por un e
 
 El extravio de mascotas es una problematica que tiene diversos factores por los cuales pueden ocurrir, desde el descuido de los dueños, hasta el robo por parte de terceroe. Desde la iniciativa "Ciudadano de 4 Patas" por parte de la alcaldia de Bogotá, se desea dar una solucion a este problema en el que por medio de microships identificados cadada uno con un nomuero unico de 15 digitos permite identificar a la mascota por medio de radiofrecuencias. La finalidad de este proyecto es identificar, realizar un seguimiento y registro de loas mascotas que se encuentran presentes en la ciudad.
 
-El microchip implantado en la mascota es un medio de identificación, que puede proporcionar la garantía antes mencionada y lograr efectivamente el propósito del medio de identificación. Dado que el microchip puede almacenar un número de identificación único para cada animal, nos permite distinguirlo de otros animales y asociarlo con datos específicos, como la propiedad y la dirección. Usando los datos disponibles en Open Data Bogotá, nuestro equipo pudo identificar diferentes factores a analizar, incluyendo la ubicación, clase, raza, género y especie de la mascota, y de esta manera, explicamos el mayor uso de mascotas en microchips. Teniendo en cuenta la combinación de datos
-
 Sabiendo esto se desea reconocer cuales son las carateristicas por las cuales los ciudadanos de diferentes localidades y estratos accedieron a este servicio en un periodo de 10 años (entre 2009 y 2019), de igual forma identificar si las especies, razas o sexo de las mascotas son factores que pueden generar que haya un mayor o menor uso de ese servicio por parte de la comunidad. 
 
 
@@ -159,7 +157,18 @@ Figura 3:
 
 Se puede inferir que del 100% de los pug que fueron registrados con microchip, el 98.66% de ellos son de las localidades 0, 1, 2, 3
 
+Figura 4: 
+
+Se observa que el total de felinos por sexo es para hembra un porcentaje de 57,37, para machos esta en 40,57 y por ultimo los que no se encuentran registrados se encuentran en un porcentaje de 2,15.
+
+Figura 5:
+En este grafico se observa cual es el total de felinos y caninos criollo dependiendo las localidades
+
+Figura 6
+
+Se observa que el estrato que utilizo mas la implementación del microchip fue para el estrato 2
+
 ## 8 Conclusiones
 
-Podemos concluir que de toda la información que hemos obtenido, afirmar que no importa si la especie del animal ya sea felino o canino y cambie  las localidades siempre va haber una mascota con el nombre de "Luna", encontramos también que la mayoría de raza que se ve en las localidades son Criollos tanto gatos como perros, tenemos un total de 206.707 mascotas registradas en el Excel es decir que tienen microchips que para ir mas a allá en las localidades que tienen estrato 2 son donde mas se encuentra mascotas registradas para ser exactos 90.215 registros. estos datos de Excel tiene un registro del 2009 al 2019 donde los últimos dos años es decir 2018 y 2019 son los que contienen mas implementación de microchip por especie y por ultimo se encuentra que la mayoría de mascotas registradas no estan esterilizados.
+Podemos concluir que de toda la información que hemos obtenido, afirmar que no importa si la especie del animal ya sea felino o canino y cambie  las localidades siempre va haber una mascota con el nombre de "Luna", encontramos también que la mayoría de raza que se ve en las localidades son Criollos tanto gatos como perros, tenemos un total de 206.707 mascotas registradas en el Excel es decir que tienen microchips que para ir mas a allá en las localidades que tienen estrato 2 son donde mas se encuentra mascotas registradas para ser exactos 90.215 registros. estos datos de Excel tiene un registro del 2009 al 2019 donde los únicos dos años es decir 2018 y 2019 son los que contienen mas implementación de microchip por especie y por ultimo se encuentra que la mayoría de mascotas registradas no estan esterilizados.
 
