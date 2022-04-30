@@ -45,6 +45,8 @@ Si tu amigo peludo se aleja un día y tiene la suerte de ser encontrado por un e
 
 El extravio de mascotas es una problematica que tiene diversos factores por los cuales pueden ocurrir, desde el descuido de los dueños, hasta el robo por parte de terceroe. Desde la iniciativa "Ciudadano de 4 Patas" por parte de la alcaldia de Bogotá, se desea dar una solucion a este problema en el que por medio de microships identificados cadada uno con un nomuero unico de 15 digitos permite identificar a la mascota por medio de radiofrecuencias. La finalidad de este proyecto es identificar, realizar un seguimiento y registro de loas mascotas que se encuentran presentes en la ciudad.
 
+El microchip implantado en la mascota es un medio de identificación, que puede proporcionar la garantía antes mencionada y lograr efectivamente el propósito del medio de identificación. Dado que el microchip puede almacenar un número de identificación único para cada animal, nos permite distinguirlo de otros animales y asociarlo con datos específicos, como la propiedad y la dirección. Usando los datos disponibles en Open Data Bogotá, nuestro equipo pudo identificar diferentes factores a analizar, incluyendo la ubicación, clase, raza, género y especie de la mascota, y de esta manera, explicamos el mayor uso de mascotas en microchips. Teniendo en cuenta la combinación de datos
+
 Sabiendo esto se desea reconocer cuales son las carateristicas por las cuales los ciudadanos de diferentes localidades y estratos accedieron a este servicio en un periodo de 10 años (entre 2009 y 2019), de igual forma identificar si las especies, razas o sexo de las mascotas son factores que pueden generar que haya un mayor o menor uso de ese servicio por parte de la comunidad. 
 
 
