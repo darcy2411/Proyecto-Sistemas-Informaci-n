@@ -29,15 +29,26 @@
 .titulo_información{
         font-family: Fuente3;
         color: blue;
-    }    
-
-
-
-
-
-
-
+    }  
     
+    
+/* SEGUNDA PAGINA */
+.seccion_convocatoria{
+    padding: 2rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo_convocatoria{
+    font-family: Fuente5;
+    color: rgb(172, 0, 94);
+}
+
+
+
+
+
+
 @font-face {
     font-family: fuente1;
     src: url(../fuentes/AbrilFatface-Regular.ttf);
