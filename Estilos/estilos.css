@@ -27,6 +27,7 @@ text-align: center;
     background-color:rgb(18, 227, 220)!important;
     }
     
+/* INDEX */
 .seccion_información{
     padding: 2rem;
     background-repeat: no-repeat;
@@ -47,7 +48,18 @@ text-align: center;
 .titulo_requisitos{
     font-family: Fuente3;
     color: rgb(255, 136, 0);
-    }  
+    } 
+
+.seccion_como_funciona{
+    padding: 2rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo_como_funciona{
+    font-family: Fuente5;
+    color: rgb(221, 244, 9);
+}
 
 /* SEGUNDA PAGINA */
 .seccion_convocatoria{
