@@ -20,8 +20,24 @@
     background-color:rgb(18, 227, 220)!important;
     }
     
+.seccion_información{
+        padding: 2rem;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+.titulo_información{
+        font-family: Fuente3;
+        color: blue;
+    }    
 
 
+
+
+
+
+
+    
 @font-face {
     font-family: fuente1;
     src: url(../fuentes/AbrilFatface-Regular.ttf);
