@@ -1,0 +1,76 @@
+/*Escriorio Largo*/
+
+@media (min-width: 100px){
+
+	#logo{
+		max-width: 100%;
+		height:auto;
+	}
+
+	nav#menu{
+		margin-top:3%;
+		width: 40%
+	}
+
+	nav#menu ul{
+		width: 100%;
+	}
+
+	nav#menu ul li{
+		width: 20%;
+		text-align: center;
+		background: rgb(8, 8, 8);
+		margin: 0 5px;
+	}
+
+	#menuMovil{
+		display: none;
+	}
+
+
+}
+
+
+/*Escritorio medio-largo*/
+
+@media (max-width: 119px) and (min-width: 992px){
+
+	nav#menu{
+		margin-top:4%;
+		width: 40%;
+	}
+
+	nav#menu{
+		margin-top:2.5%;
+		width: 40%
+	}
+
+	nav#menu ul{
+		width: 100%;
+	}
+
+	nav#menu ul li{
+		width: 20%;
+		text-align: center;
+		background: #E0FFFF;
+		margin: 0 5px;
+	}
+
+	#menuMovil{
+		display: none;
+	}
+}
+
+/*Escritorio Medio*/
+
+@media (max-width: 991px) and (min-width: 768px){
+
+	}
+
+@media (max-width: 767px){
+	#menu{
+		display: none;
+	}
+
+}
+
