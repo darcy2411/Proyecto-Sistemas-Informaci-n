@@ -16,6 +16,13 @@
     color: rgba(184, 11, 11, 0.815);
 }
 
+.titulo_texto{
+color: rgb(239, 234, 234);
+font-weight:700;
+font-family: Verdana;
+text-align: center;
+}
+
 .grilla{
     background-color:rgb(18, 227, 220)!important;
     }
