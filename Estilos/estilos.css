@@ -3,3 +3,15 @@
     margin: 0;
     padding:0;
 }
+
+/*SECCION TITULO*/
+.contenedor_titulo{
+    padding: 1rem;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.titulo{
+    font-family: fuente1;
+    color: rgb(114, 19, 19);
+}
