@@ -15,3 +15,30 @@
     font-family: fuente2;
     color: rgb(0, 30, 226);
 }
+
+
+
+
+@font-face {
+    font-family: fuente1;
+    src: url(../fuentes/AbrilFatface-Regular.ttf);
+}
+
+@font-face {
+    font-family: Fuente2;
+    src: url(../fuentes/Pacifico-Regular.ttf);
+}
+
+@font-face {
+    font-family: Fuente3;
+    src: url(../fuentes/LobsterTwo-Italic.ttf);
+}
+@font-face {
+    font-family: Fuente4;
+    src: url(../fuentes/Staatliches-Regular.ttf);
+}
+
+@font-face {
+    font-family: Fuente5;
+    src: url(../fuentes/Satisfy-Regular.ttf);
+}
