@@ -21,17 +21,27 @@
     }
     
 .seccion_información{
-        padding: 2rem;
-        background-repeat: no-repeat;
-        background-size: cover;
+    padding: 2rem;
+    background-repeat: no-repeat;
+    background-size: cover;
     }
 
 .titulo_información{
-        font-family: Fuente3;
-        color: blue;
+    font-family: Fuente3;
+    color: blue;
     }  
     
-    
+.seccion_requisitos{
+    padding: 2rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+.titulo_requisitos{
+    font-family: Fuente3;
+    color: rgb(255, 136, 0);
+    }  
+
 /* SEGUNDA PAGINA */
 .seccion_convocatoria{
     padding: 2rem;
@@ -56,6 +66,24 @@
     color: rgb(49, 2, 58);
 }
 
+/*Sombreado Tarjeta*/
+.tarjeta{
+    -webkit-box-shadow: -6px 0px 10px 3px #FF1B3A; 
+    box-shadow: -6px 0px 10px 3px #FF1B3A;
+}
+.card-body{
+    -webkit-box-shadow: -6px 0px 10px 3px #FF1B3A; 
+    box-shadow: -6px 0px 10px 3px #FF1B3A;
+}
+.seccion_tarjetas{
+    text-align: center;
+}
+
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 @font-face {
     font-family: fuente1;
