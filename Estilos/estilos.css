@@ -44,9 +44,16 @@
     color: rgb(172, 0, 94);
 }
 
+.seccion_resultados{
+    padding: 2rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
-
-
+.titulo_resultados{
+    font-family: Fuente2;
+    color: rgb(49, 2, 58);
+}
 
 
 @font-face {
