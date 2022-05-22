@@ -13,10 +13,13 @@
 
 .titulo{
     font-family: fuente5;
-    color: rgb(0, 30, 226);
+    color: rgba(11, 45, 184, 0.815);
 }
 
-
+.grilla{
+    background-color:rgb(18, 227, 220)!important;
+    }
+    
 
 
 @font-face {
