@@ -23,6 +23,12 @@ font-family: Verdana;
 text-align: center;
 }
 
+.titulo_texto1{
+    color: rgb(235, 235, 235);
+    font-weight:800;
+    font-family: Verdana;
+    text-align: center;
+    }
 .grilla{
     background-color:rgb(18, 227, 220)!important;
     }
@@ -46,7 +52,7 @@ text-align: center;
     }
 
 .titulo_requisitos{
-    font-family: Fuente3;
+    font-family: Fuente6;
     color: rgb(255, 136, 0);
     } 
 
@@ -128,6 +134,10 @@ text-align: center;
     src: url(../fuentes/Satisfy-Regular.ttf);
 }
 
+@font-face {
+    font-family: Fuente6;
+    src: url(../Fuentes/Bangers-Regular.ttf);
+}
 
 
 
