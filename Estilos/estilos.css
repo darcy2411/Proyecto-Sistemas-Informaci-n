@@ -93,8 +93,8 @@ text-align: center;
 
 /*Sombreado Tarjeta*/
 .tarjeta{
-    -webkit-box-shadow: -6px 0px 10px 3px #FF1B3A; 
-    box-shadow: -6px 0px 10px 3px #FF1B3A;
+    -webkit-box-shadow: -6px 0px 10px 3px #7503d3; 
+    box-shadow: -6px 0px 10px 3px #7503d3;
 }
 .card-body{
     -webkit-box-shadow: -6px 0px 10px 3px #FF1B3A; 
