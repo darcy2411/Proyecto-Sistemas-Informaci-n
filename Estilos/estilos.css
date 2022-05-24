@@ -19,18 +19,18 @@
 .titulo_texto{
 color: rgb(7, 7, 7);
 font-weight:700;
-font-family:'Times New Roman';
+font-family: Fuente2;
 text-align: center;
 }
 
 .titulo_texto1{
     color: rgb(0, 0, 0);
     font-weight:800;
-    font-family:'Times New Roman';
+    font-family:Fuente2;
     text-align: center;
     }
 .grilla{
-    background-color:rgb(18, 227, 220)!important;
+    background-color:#86B7FF  !important;
     }
     
 /* INDEX */
@@ -41,7 +41,7 @@ text-align: center;
     }
 
 .titulo_información{
-    font-family: Fuente3;
+    font-family: Fuente5;
     color: blue;
     }  
     
@@ -139,14 +139,6 @@ text-align: center;
     src: url(../Fuentes/Bangers-Regular.ttf);
 }
 
-
-
-
-
-
-
-
-
 /*DISEÑO RESPONSIVE*/
 @media only screen and (max-width: 600px){
     .card-text{
@@ -160,4 +152,40 @@ text-align: center;
         color:#330033 ;
         font-family: Fuente4;
     }
+}
+
+footer{
+    background-color: #000000;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+    font-family: Fuente5;
+}
+
+.contenedor-footer{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    border-bottom: 1px solid rgb(133, 8, 8);
+
+}
+
+.conten-foo{
+    text-align: center;
+    border-bottom: 3px solid #dcc7c7;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.conten-foo p{
+    color: rgb(150, 31, 31); 
+}
+
+.titulo-final{
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0 0 0;
+    color: #CDBDD4;
 }
