@@ -17,14 +17,14 @@
 }
 
 .titulo_texto{
-color: rgb(239, 234, 234);
+color: rgb(7, 7, 7);
 font-weight:700;
 font-family: Verdana;
 text-align: center;
 }
 
 .titulo_texto1{
-    color: rgb(235, 235, 235);
+    color: rgb(0, 0, 0);
     font-weight:800;
     font-family: Verdana;
     text-align: center;
@@ -53,7 +53,7 @@ text-align: center;
 
 .titulo_requisitos{
     font-family: Fuente6;
-    color: rgb(255, 136, 0);
+    color: rgb(0, 140, 255);
     } 
 
 .seccion_como_funciona{
@@ -64,7 +64,7 @@ text-align: center;
 
 .titulo_como_funciona{
     font-family: Fuente5;
-    color: rgb(221, 244, 9);
+    color: rgb(244, 29, 9);
 }
 
 /* SEGUNDA PAGINA */
