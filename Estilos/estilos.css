@@ -19,14 +19,14 @@
 .titulo_texto{
 color: rgb(7, 7, 7);
 font-weight:700;
-font-family: Verdana;
+font-family:'Times New Roman';
 text-align: center;
 }
 
 .titulo_texto1{
     color: rgb(0, 0, 0);
     font-weight:800;
-    font-family: Verdana;
+    font-family:'Times New Roman';
     text-align: center;
     }
 .grilla{
@@ -52,7 +52,7 @@ text-align: center;
     }
 
 .titulo_requisitos{
-    font-family: Fuente6;
+    font-family: Fuente3;
     color: rgb(0, 140, 255);
     } 
 
