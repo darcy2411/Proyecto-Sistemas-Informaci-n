@@ -8,6 +8,10 @@ body{
     font-family: 'open sans';
 }
 
+.h1{
+    color: #af20d3;
+}
+
 .contenedor{
     padding: 60px 0;
     width: 90%;
